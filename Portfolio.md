@@ -5,9 +5,6 @@ I am a Data Science and Machine Learning Enthusiast and an open source contribut
 - 🌱 I’m currently learning more about data science and machine learning.
 - 🤔 I’m looking for help with <b> Open Source Development </b>
 - 💬 Ask me about <b> Data Science , Machine Learning, Sql, Databases</b>.
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <h2> Find me around the web : </h2>
 
