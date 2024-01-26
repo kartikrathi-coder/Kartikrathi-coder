@@ -1,5 +1,5 @@
 <div style="text-align:center;">
-  <img src="https://github.com/kartikrathi-coder/Kartikrathi-coder/blob/main/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966.gif" alt="Your Alt Text" height="300">
+  <img src="https://github.com/kartikrathi-coder/Kartikrathi-coder/blob/main/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966.gif" alt="Your Alt Text" width="400" height="300" style="margin:auto;">
 </div>
 
 <h1 align="center">Hi 👋, I'm Kartik Rathi</h1>
