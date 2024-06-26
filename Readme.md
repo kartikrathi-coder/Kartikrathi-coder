@@ -5,9 +5,9 @@
 <h1 align="center">Hi 👋, I'm Kartik Rathi</h1>
 <h3 align="center">I am a Data Science and Machine Learning Enthusiast and an open source contributor . Juggling algorithms like a circus performer and contributing code to the open source carnival. Turning data into insights and dreams into predictive & Generative models</h3>
 
-- 🔭 I’m currently working on **Automatic Number plate detection and text extraction**
+- 🔭 I’m currently working on **𝐒𝐭𝐨𝐜𝐤 𝐌𝐚𝐫𝐤𝐞𝐭 𝐍𝐞𝐰𝐬 𝐒𝐞𝐧𝐭𝐢𝐦𝐞𝐧𝐭 𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬 𝐓𝐨𝐨𝐥!**
 
-- 🌱 I’m currently learning **MLOps**
+- 🌱 I’m currently learning **Generative AI**
 
 - 📝 I regularly write articles on [Analytics Vidhya](Analytics Vidhya)
 
